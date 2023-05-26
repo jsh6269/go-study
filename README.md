@@ -1,2 +1,2 @@
 # go-study
-learning golang
+Learning Go language
